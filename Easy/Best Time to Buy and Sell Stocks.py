@@ -1,4 +1,5 @@
-(* # Problem 121 *)
+# Problem 121 
+
 class Solution(object):
     def maxProfit(self, prices):
         min_price = {'inf'}
